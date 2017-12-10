@@ -1,4 +1,4 @@
-@ehco off
+@ECHO OFF
 Title Fullscreen Chrome
 SET /P weburl= Enter URL (Example: "google.com" or "twitch.tv"):
 ECHO  USE CHROME DIRECTORY
